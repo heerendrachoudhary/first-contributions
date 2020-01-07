@@ -1,6 +1,7 @@
 ﻿i# Contributors
 
 - [Peter Kou] (https://github.com/Pkou1)
+- [Heerendra Choudhary] (https://github.com/heerendrachoudhary)
 - [Andre Duong] (https://github.com/andreduong)
 -[Monica Sai Kambala] (https://github.com/MonicaSai7)
 - [Jordan Bertasso] (https://github.com/jordanbertasso)
